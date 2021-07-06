@@ -19,7 +19,7 @@ Step by step to run this app in your local
 ###### Only Project TS
 
 ```
-cd ./Project TS
+cd ./Project_TS
 ```
 
 At your directory root, run:
